@@ -1,10 +1,3 @@
-🔧 Configuration
-Create a .env file in the root directory:
-CopyAPI_KEY=your_api_key
-LLAMA_MODEL_PATH=path/to/llama/model.bin
-Ensure you have downloaded the LLaMA model weights and updated the path accordingly.
-🚀 Getting Started
-
 Clone the repository:
 Copygit clone https://github.com/OSOSerious/real-estate-optimizer.git
 cd real-estate-optimizer
