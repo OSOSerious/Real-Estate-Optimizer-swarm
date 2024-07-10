@@ -52,7 +52,7 @@ Swarms Website: https://swarms.world/
 Zillow API: https://www.zillow.com/howto/api/APIOverview.htm
 Realtor API: https://www.realtor.
 python real_estate_ai_agent.py
-![Real Estate Optimizer Banner](https://github.com/OSOSerious/Real-Estate-Optimizer-swarm/blob/main/banner.png)
+
 
 # AI-Powered Real Estate Investment Analyzer
 
@@ -142,5 +142,14 @@ Push the changes to GitHub:
 
 bash
 Copy code
-git push origin master
+git push origin master   
+pydantic
+transformers
+swarm
+python-dotenv
+numpy
+pandas
+requests
+torch
+
 
